@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="23.44" height="23.44" viewBox="0 0 23.44 23.44">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.518" y1="0.5" x2="0.898" y2="0.116" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#8dbda2"/>
+      <stop offset="1" stop-color="#78a78a"/>
+    </linearGradient>
+  </defs>
+  <g id="Current_location" data-name="Current location" transform="translate(-5 -3)">
+    <g id="Group_349" data-name="Group 349" transform="translate(6 4)">
+      <path id="Path_431" data-name="Path 431" d="M16.72,25.44A10.72,10.72,0,1,0,6,14.72,10.72,10.72,0,0,0,16.72,25.44Z" transform="translate(-6 -4)" fill-rule="evenodd" fill="url(#linear-gradient)"/>
+      <path id="Path_432" data-name="Path 432" d="M16.72,25.44A10.72,10.72,0,1,0,6,14.72,10.72,10.72,0,0,0,16.72,25.44Z" transform="translate(-6 -4)" fill="none" stroke="#121212" stroke-width="2" fill-rule="evenodd"/>
+    </g>
+    <path id="Path_433" data-name="Path 433" d="M21.93,24.632a4.7,4.7,0,1,0-4.7-4.7A4.7,4.7,0,0,0,21.93,24.632Z" transform="translate(-5.21 -5.21)" fill="#121212" fill-rule="evenodd"/>
+  </g>
+</svg>
